@@ -7,7 +7,7 @@
 
 官网：[https://gooflow.xyz](https://gooflow.xyz)<br>
 要了解详细的使用方法，请查看[API文档](https://gooflow.xyz/docs)<br>
-GooFlow已转为闭源项目，github上不再提供clone。试用版请访问gitee上的[项目主页](https://gitee.com/gooflow/gooflow)
+GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的[项目主页](https://gitee.com/gooflow/gooflow)
 
 
 
