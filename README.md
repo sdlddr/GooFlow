@@ -8,7 +8,7 @@
 
 **全新Vue版正式发布！**
 <p>Vue版是基于原来Jquery版的技术原理在Vue框架下全新开发实现，不依赖于Jquery。</p>
-<p>详细请点击进入 [Vue版API文档](https://gooflow.xyz/vueDoc) 或者 [Vue版实例](https://gooflow.gitee.io/vue.html#/)。</p>
+<p>详细请点击进入[Vue版API文档](https://gooflow.xyz/vueDoc) 或者 [Vue版实例](https://gooflow.gitee.io/vue.html#/)</p>
 
 <p>只有本人发布的试用项目是真正的GooFlow。其余人等发布的同名或fork后自改版本，均不能保证其安全性、里面是否不含病毒或木马；若采用这些版本，风险程度无法估量，造成任何对系统的危害本人概不负责。</p>
 
