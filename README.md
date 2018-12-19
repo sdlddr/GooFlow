@@ -41,7 +41,7 @@ QQ： 115247126<br>
 * 具有操作事务序列控制功能，在工作区内的各种有效操作都能记录到一个栈中，然后可以进行撤销（undo()）或重做（redo()），像典型的C/S软件一样。
 * 能将流程图以png图片的格式导出并下载（纯JS实现，但不支持IE9及以下浏览器）
 
-![Preview Image](https://git.oschina.net/uploads/images/2017/0531/145320_f0bb8c2c_472359.png "效果预览图")
+![Preview Image](https://gooflow.xyz/assets/img/aaa.png "效果预览图")
 <br><br>
 
 ## 开始使用 ##
