@@ -6,7 +6,7 @@
 <p>GooFlow携全新的“私货”再次重装来袭！全新防侵权机制取代原JS挖矿，专治各种伸手党不服！加入新扩展接口及设定以适应更多领域场景要求。</p>
 <p>1.3.10版本以后，所有功能开发完毕，今后将只有Bug修复才会更新。</p>
 
-**全新Vue版正式发布！**<br>
+**全新Vue版正式发布！React版正在拼命研发中！**<br>
 Vue版是基于原来Jquery版的技术原理在Vue框架下全新开发实现，不依赖于Jquery。<br>
 了解Vue版详情，请点击进入[Vue版API文档](https://gooflow.xyz/vueDoc) 或者 [Vue版实例](https://gooflow.gitee.io/vue.html#/)
 
