@@ -1,30 +1,28 @@
 # GooFlow 
 
-> 这是一个用来在WEB端构建流程图的在线流程设计器。可设计各种流程图、逻辑流图，数据流图，或是应用系统中需要走流程的功能实现。优秀的用户体验使得操作界面很容易上手，无论开者或用户都可轻松使用。并且兼容主流浏览器(ie8--ie edge，chrome，firefox)。
+> 这是一个用来在WEB端构建流程图的JQuery插件，在线流程设计器。可设计各种流程图、逻辑流图，数据流图，或是应用系统中需要走流程的功能实现。优秀的用户体验使得操作界面很容易上手，无论开者或用户都可轻松使用。并且兼容主流浏览器(ie8--ie edge，chrome，firefox)。
 
 **Jax: 没想到吧，我又回来了！**
 <p>GooFlow携全新的“私货”再次重装来袭！全新防侵权机制取代原JS挖矿，专治各种伸手党不服！加入新扩展接口及设定以适应更多领域场景要求。</p>
 <p>1.3.10版本以后，所有功能开发完毕，今后将只有Bug修复才会更新。</p>
+<p>GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的[项目主页](https://gitee.com/gooflow/gooflow)</p>
 
-**全新Vue版正式发布！React版正在拼命研发中！**<br>
-Vue版是基于原来Jquery版的技术原理在Vue框架下全新开发实现，不依赖于Jquery。<br>
-了解Vue版详情，请点击进入[Vue版API文档](https://gooflow.xyz/vueDoc) 或者 [Vue版实例](https://gooflow.gitee.io/vue.html#/)
-
+**全新React版正式发布！**
+<p>React版是基于原来Jquery版的技术原理在React框架下全新开发实现，不依赖于Jquery。</p>
+<p>Vue版是基于原来Jquery版的技术原理在Vue框架下全新开发实现，不依赖于Jquery。</p>
 <p>只有本人发布的试用项目是真正的GooFlow。其余人等发布的同名或fork后自改版本，均不能保证其安全性、里面是否不含病毒或木马；若采用这些版本，风险程度无法估量，造成任何对系统的危害本人概不负责。</p>
-
-官网：[https://gooflow.xyz](https://gooflow.xyz)<br>
-要了解详细的使用方法，请查看[Jquery版API文档](https://gooflow.xyz/docs) 或者 [Vue版API文档](https://gooflow.xyz/vueDoc)<br>
-GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的[项目主页](https://gitee.com/gooflow/gooflow)
-
-
 
 ## 授权说明： ##
 GooFlow已转为闭源项目，当前托管页中所放版本仅为试用版，会让CPU无意义空转耗能，且含有定时弹出的广告，只能用于本地功能测试，切不可放入实际项目中使用；<br>
-如要应用于软件开发项目中，只能使用纯净未有任何附加的正式版，并需要联系作者本人购买使用授权，谢谢。（无论正式版还是试用版，如果逃避购买授权而直接用于项目，擅自窃取用作谋利，或者尝试破解程序，即属严重侵权行为，与盗窃无异。产生的一切任何后果责任由侵权者自负。请各位只想免费吃白饭的伸手党做好向作者本人及自己的公司、客户负全责的觉悟。）<br>
+如要应用于软件开发项目中，只能使用纯净未有任何附加的正式版，并需要联系作者本人购买使用授权，谢谢。（无论正式版还是试用版，如果逃避购买授权而直接用于项目，擅自窃取用作谋利，即属严重侵权行为，与盗窃无异。产生的一切任何后果责任由侵权者自负。请各位只想免费吃白饭的伸手党做好向作者本人及自己的公司、客户负全责的觉悟。）<br>
 联系方式：<br>
 微信：18648945414<br>
 QQ： 115247126<br>
 邮箱： fool-egg@163.com <br>
+授权价格：Jquery版为 <b>￥4,500RMB/产品</b> ，Vue/React版为 <b>￥5,200RMB/产品</b> 。<br>
+
+更多详细信息以官网为准：[https://gooflow.xyz](https://gooflow.xyz)
+
 ## 特点 ##
 * 跨领域:流程图设计器不止用在电信领域,在其它需要IT进行技术支持的领域中都有重大作用.
 * 页面顶部栏、左边侧边栏均可自定义；
@@ -41,122 +39,21 @@ QQ： 115247126<br>
 * 具有操作事务序列控制功能，在工作区内的各种有效操作都能记录到一个栈中，然后可以进行撤销（undo()）或重做（redo()），像典型的C/S软件一样。
 * 能将流程图以png图片的格式导出并下载（纯JS实现，但不支持IE9及以下浏览器）
 
-![Preview Image](https://gooflow.xyz/assets/img/aaa.png "效果预览图")
+![Preview Image](https://git.oschina.net/uploads/images/2017/0531/145320_f0bb8c2c_472359.png "效果预览图")
 <br><br>
 
-## 开始使用 ##
+## 详细的使用方法: ##
+* [Jquery版API文档](https://gooflow.xyz/docs) 
+* [Vue版API文档](https://gooflow.xyz/vueDoc)
+* [React版API文档](https://gooflow.xyz/reactDoc)
 
-### 一：传统方式的使用方法  ###
-先在页头引入Css文件，在body末尾引入jquery和GooFloW主要功能文件;
-``` html
-<head>
-    <link rel="stylesheet" type="text/css" href="./dist/GooFlow.min.css"/>
-</head>
-<body>
-    <div id="demo"></div>
-    ……
-    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min"></script>
-    <script type="text/javascript" src="./dist/GooFlow.min.js"></script>
-    <!-- 可选，将流程图导出为图片文件的扩展包 GooFlow.export.js -->
-    <script type="text/javascript" src="./dist/GooFlow.export.min.js"></script>
-    <!-- 可选，将流程图输出打印或另存为PDF的扩展包 GooFlow.print.js-->
-    <script type="text/javascript" src="./dist/GooFlow.print.min.js"></script>
-    <script type="text/javascript" src="./main.js"></script>
-</body>
-```
-然后在业务js中调用方法；
-``` javascript
-/** main.js **/
-    var options = {
-        toolBtns:["start round mix","end round","task","node","chat","state","plug","join","fork","complex mix"],
-        haveHead:true,
-        headLabel:true,
-        headBtns:["new","open","save","undo","redo","reload","print"],//如果haveHead=true，则定义HEAD区的按钮
-        haveTool:true,
-        haveDashed:true,
-        haveGroup:true,
-        useOperStack:true
-    };
-    var demo;
-    $(document).ready(function(){
-        demo = GooFlow.init("#demo",options);
-        // demo = $.createGooFlow("#demo",options); //第二种初始化方法
-        demo.setNodeRemarks(remark); //remarks为左侧工具栏按钮的title提示定义
-        demo.loadData(jsondata); //jsondata为表达流程图详细的JSON数据
-    });
-```
-<br>
-
-### 二：AMD异步模式使用方法  ###
-以**RequireJs**为例，先在RequireJs于项目的统一配置文件中加入如下设置，需要用到**require-css**(css.min.js)插件；
-``` javascript
-/** require.config.js **/
-requirejs.config({
-    //// ……
-    map: {
-        '*': {
-            'css': 'https://cdn.bootcss.com/require-css/0.1.10/css.min.js' // https://github.com/guybedford/require-css, RequireJs's plugin
-        }
-    },
-    paths: {
-        jquery: 'https://cdn.bootcss.com/jquery/1.12.4/jquery.min',
-        GooFlow: 'dist/GooFlow.min',
-        'GooFlow.group': 'dist/GooFlow.group.min',  //可选，支持分组泳道显示的扩展包（从1.3.8rp版本开始）
-        'GooFlow.export': 'dist/GooFlow.export.min',  //可选，将流程图导出为图片文件的扩展包
-        'GooFlow.print': 'dist/GooFlow.print.min',    //可选，将流程图输出打印或另存为PDF的扩展包
-    },
-
-    shim:{
-        'GooFlow':{
-            deps:['css!../dist/GooFlow.min.css','jquery']
-        }
-    },
-    //// ……
-});
-```
-在将会异步引入main.js入口业务文件的html页面中,body末尾加上这一段;
-``` html
-<body>
-    <div id="demo"></div>
-    ……
-    <script data-main="main.js" src="https://cdn.bootcss.com/require.js/2.3.5/require.min.js"></script>
-    <script src="../assets/js/require.config.js"></script>
-</body>
-```
-然后在具体的业务js文件中作包引入并初始化；
-``` javascript
-/** main.js **/
-require(['jquery','GooFlow'], function ( $, GooFlow ) {
-    // 初始化的代码
-    var options = { …… };
-    var demo = GooFlow.init("#demo",options);
-    demo.setNodeRemarks(remark); //remarks为左侧工具栏按钮的title提示定义
-    demo.loadData(jsondata);     //jsondata为表达流程图详细的JSON数据
-});
-```
-如果想使用其它扩展包提供的功能，请务必保证在载入GooFlow.js后再载入相应的扩展包，以保证相应的功能正常；
-``` javascript
-/** main.js 扩展功能包 **/
-require(['jquery', 'GooFlow'], function ( $, GooFlow ) {
-    require(['GooFlow.export','GooFlow.print'], function (){
-        // 初始化的代码
-        var options = { …… };
-        var demo = GooFlow.init("#demo",options);
-        demo.setNodeRemarks(remark);         //remarks为左侧工具栏按钮的title提示定义
-        demo.setHeadToolsRemarks(headBtns);  //headBtns为顶部标题栏按钮的title提示设置
-        demo.loadData(jsondata);             //jsondata为表达流程图详细的JSON数据
-        demo.onBtnSaveClick=function(){
-            demo.exportDiagram(exportName);//流程图导出图片功能
-        }
-        demo.onPrintClick=function(){
-            demo.print();//打印流程图或另存为PDF功能
-        }
-    });
-});
-```
-<br>
+## 相关实例链接 ##
+* Jquery版实例展示：[点击进入](https://gooflow.xyz/#demo)<br>
+* Vue版例展示：[点击进入](https://gooflow.gitee.io/vue/#)<br>
+* React版例展示：[点击进入](https://gooflow.gitee.io/react/)<br>
 
 **更新历史：**
+- **1.0.0 for React:** <br>全新React组件版本重装来袭！
 - **1.0.0 for Vue:** <br>全新Vue组件版本重装来袭！
 - **1.3.10:** <br>增加移动块状元素时自动对齐并显示对齐辅助线的功能。
 - **1.3.9:** <br>重大更新！增加缩略导航图的功能，包括拖动定位和实时滚动。增加用鼠标滚轮+Ctrl键控制绘图区缩放的功能。
