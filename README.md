@@ -5,7 +5,7 @@
 **Jax: 没想到吧，我又回来了！**
 <p>GooFlow携全新的“私货”再次重装来袭！全新防侵权机制取代原JS挖矿，专治各种伸手党不服！加入新扩展接口及设定以适应更多领域场景要求。</p>
 <p>1.3.10版本以后，所有功能开发完毕，今后将只有Bug修复才会更新。</p>
-<p>GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的[项目主页](https://gitee.com/gooflow/gooflow)</p>
+<p>GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的[项目主页](https://gitee.com/gooflow/gooflow)。</p>
 
 **全新React版正式发布！**
 <p>React版是基于原来Jquery版的技术原理在React框架下全新开发实现，不依赖于Jquery。</p>
@@ -53,6 +53,8 @@ QQ： 115247126<br>
 * React版例展示：[点击进入](https://gooflow.gitee.io/react/)<br>
 
 **更新历史：**
+- **1.1.0 for Vue/React:** <br>重大更新！增加对通过拖拽来添加块状态元素的类似于Visio操作方式的支持。
+- **1.3.11:** <br>重大更新！增加对通过拖拽来添加块状态元素的类似于Visio操作方式的支持。
 - **1.0.0 for React:** <br>全新React组件版本重装来袭！
 - **1.0.0 for Vue:** <br>全新Vue组件版本重装来袭！
 - **1.3.10:** <br>增加移动块状元素时自动对齐并显示对齐辅助线的功能。
