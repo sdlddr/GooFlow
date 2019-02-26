@@ -1,19 +1,14 @@
 # GooFlow 
 
-> 这是一个用来在WEB端构建流程图的JQuery插件，在线流程设计器。可设计各种流程图、逻辑流图，数据流图，或是应用系统中需要走流程的功能实现。优秀的用户体验使得操作界面很容易上手，无论开者或用户都可轻松使用。并且兼容主流浏览器(ie8--ie edge，chrome，firefox)。
+> 这是一个用来在WEB端构建流程图的在线流程设计器组件。可设计各种流程图、逻辑流图，数据流图，或是应用系统中需要走流程的功能实现。优秀的用户体验使得操作界面很容易上手，无论开者或用户都可轻松使用。并且兼容主流浏览器(ie9--ie edge，chrome，firefox)。
 
 **Jax: 没想到吧，我又回来了！**
 <p>GooFlow携全新的“私货”再次重装来袭！全新防侵权机制取代原JS挖矿，专治各种伸手党不服！加入新扩展接口及设定以适应更多领域场景要求。</p>
 <p>1.3.10版本以后，所有功能开发完毕，今后将只有Bug修复才会更新。</p>
 <p>GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的[项目主页](https://gitee.com/gooflow/gooflow)。</p>
 
-**全新React版正式发布！**
-<p>React版是基于原来Jquery版的技术原理在React框架下全新开发实现，不依赖于Jquery。</p>
-<p>Vue版是基于原来Jquery版的技术原理在Vue框架下全新开发实现，不依赖于Jquery。</p>
-<p>只有本人发布的试用项目是真正的GooFlow。其余人等发布的同名或fork后自改版本，均不能保证其安全性、里面是否不含病毒或木马；若采用这些版本，风险程度无法估量，造成任何对系统的危害本人概不负责。</p>
-
-## 即将到来的大招： #
-Jquery版改为原生Js版，移除对Jquery的依赖；同时彻底放弃对IE8的支持，并移除没啥用的ajax载入数据方法接口。
+**Jquery版改为原生Js版！**
+<p>移除对Jquery的依赖；同时彻底放弃对IE8的支持，并移除没啥用的ajax载入数据方法接口。</p>
 
 ## 授权说明： ##
 GooFlow已转为闭源项目，当前托管页中所放版本仅为试用版，会让CPU无意义空转耗能，且含有定时弹出的广告，只能用于本地功能测试，切不可放入实际项目中使用；<br>
@@ -22,7 +17,7 @@ GooFlow已转为闭源项目，当前托管页中所放版本仅为试用版，�
 微信：18648945414<br>
 QQ： 115247126<br>
 邮箱： fool-egg@163.com <br>
-授权价格：Jquery版为 <b>￥4,500RMB/产品</b> ，Vue/React版为 <b>￥5,200RMB/产品</b> 。<br>
+授权价格：Js原生版为 <b>￥4,500RMB/产品</b> ，Vue/React版为 <b>￥5,200RMB/产品</b> 。<br>
 
 更多详细信息以官网为准：[https://gooflow.xyz](https://gooflow.xyz)
 
@@ -46,16 +41,17 @@ QQ： 115247126<br>
 <br><br>
 
 ## 详细的使用方法: ##
-* [Jquery版API文档](https://gooflow.xyz/docs) 
+* [Js原生版API文档](https://gooflow.xyz/docs) 
 * [Vue版API文档](https://gooflow.xyz/vueDoc)
 * [React版API文档](https://gooflow.xyz/reactDoc)
 
 ## 相关实例链接 ##
-* Jquery版实例展示：[点击进入](https://gooflow.xyz/#demo)<br>
+* Js原生版实例展示：[点击进入](https://gooflow.xyz/#demo)<br>
 * Vue版例展示：[点击进入](https://gooflow.gitee.io/vue/#)<br>
 * React版例展示：[点击进入](https://gooflow.gitee.io/react/)<br>
 
 **更新历史：**
+- **1.3.12:** <br>重大更新！Jquery版改为Js原生版，移除对Jquery的依赖；同时彻底放弃对IE8的支持，并移除没啥用的ajax载入数据方法接口。
 - **1.1.0 for Vue/React:** <br>重大更新！增加对通过拖拽来添加块状态元素的类似于Visio操作方式的支持。
 - **1.3.11:** <br>重大更新！增加对通过拖拽来添加块状态元素的类似于Visio操作方式的支持。
 - **1.0.0 for React:** <br>全新React组件版本重装来袭！
