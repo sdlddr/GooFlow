@@ -46,7 +46,7 @@ QQ： 115247126<br>
 * [React版API文档](https://gooflow.xyz/reactDoc)
 
 ## 相关实例链接 ##
-* Js原生版实例展示：[点击进入](https://gooflow.xyz/#demo)<br>
+* Js原生版实例展示（仅为依赖jQuery的最后一版）：[点击进入](https://gooflow.xyz/#demo)<br>
 * Vue版例展示：[点击进入](https://gooflow.gitee.io/vue/#)<br>
 * React版例展示：[点击进入](https://gooflow.gitee.io/react/)<br>
 
