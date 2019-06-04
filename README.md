@@ -5,7 +5,7 @@
 **Jax: 没想到吧，我又回来了！**
 <p>GooFlow携全新的“私货”再次重装来袭！全新防侵权机制取代原JS挖矿，专治各种伸手党不服！加入新扩展接口及设定以适应更多领域场景要求。</p>
 <p>1.3.10版本以后，所有功能开发完毕，今后将只有Bug修复才会更新。</p>
-<p>GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的[项目主页]( https://gitee.com/gooflow/gooflow/ )。</p>
+<p>GooFlow已转为闭源项目，github上不再提供clone和下载。试用版请访问gitee上的 [项目主页](https://gitee.com/gooflow/gooflow/) 。</p>
 
 **Jquery版改为原生Js版！**
 <p>移除对Jquery的依赖；同时彻底放弃对IE8的支持，并移除没啥用的ajax载入数据方法接口。</p>
