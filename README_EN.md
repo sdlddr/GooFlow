@@ -2,7 +2,7 @@
 
 > This is an online process designer component used to build flowcharts on the WEB side. Various flow charts, logic flow diagrams, data flow diagrams, or functional implementations of processes that need to go through the process can be designed. The excellent user experience makes the interface easy to use, no matter the driver or the user can easily use. And compatible with mainstream browsers (ie9--ie edge, chrome, firefox).
 
-GooFlow has been converted to a closed source project, and clones and downloads are no longer available on github. For the trial version, please visit the[Repository Homepage](https://gitee.com/gooflow/gooflow)
+GooFlow has been converted to a closed source project, and clones and downloads are no longer available on github. For the trial version, please visit the [Repository Homepage](https://gitee.com/gooflow/gooflow)
 
 
 ## Authorization note: ##
