@@ -1,5 +1,6 @@
-# GooFlow 
-
+# GooFlow  
+----
+README: [English](https://github.com/sdlddr/GooFlow/blob/master/README_EN.md) | [中文](https://github.com/sdlddr/GooFlow/blob/master/README.md)
 > 这是一个用来在WEB端构建流程图的在线流程设计器组件。可设计各种流程图、逻辑流图，数据流图，或是应用系统中需要走流程的功能实现。优秀的用户体验使得操作界面很容易上手，无论开者或用户都可轻松使用。并且兼容主流浏览器(ie9--ie edge，chrome，firefox)。
 
 **Jax: 没想到吧，我又回来了！**
