@@ -25,7 +25,7 @@ QQ： 115247126<br>
 邮箱： fool-egg@163.com <br>
 授权价格：Js原生版为 <b>￥5,000RMB/产品</b> ，Vue/React版为 <b>￥5,700RMB/产品</b> 。<br>
 
-更多详细信息以官网为准：[https://gooflow.xyz](https://gooflow.xyz)
+更多详细信息以官网为准：[https://gooflow.github.io](https://gooflow.github.io)
 
 ## 特点 ##
 * 跨领域:流程图设计器不止用在电信领域,在其它需要IT进行技术支持的领域中都有重大作用.
@@ -43,16 +43,16 @@ QQ： 115247126<br>
 * 具有操作事务序列控制功能，在工作区内的各种有效操作都能记录到一个栈中，然后可以进行撤销（undo()）或重做（redo()），像典型的C/S软件一样。
 * 能将流程图以png图片的格式导出并下载（纯JS实现，但不支持IE9及以下浏览器）
 
-![Preview Image](https://gooflow.xyz/assets/img/aaa.png "效果预览图")
+![Preview Image](https://gooflow.github.io/assets/img/aaa.png "效果预览图")
 <br><br>
 
 ## 详细的使用方法: ##
-* [Js原生版API文档](https://gooflow.xyz/docs) 
-* [Vue版API文档](https://gooflow.xyz/vueDoc)
-* [React版API文档](https://gooflow.xyz/reactDoc)
+* [Js原生版API文档](https://gooflow.github.io/docs) 
+* [Vue版API文档](https://gooflow.github.io/vueDoc)
+* [React版API文档](https://gooflow.github.io/reactDoc)
 
 ## 相关实例链接 ##
-* Js原生版实例展示（仅为依赖jQuery的最后一版）：[点击进入](https://gooflow.xyz/#demo)<br>
+* Js原生版实例展示（仅为依赖jQuery的最后一版）：[点击进入](https://gooflow.github.io/#demo)<br>
 * Vue版例展示：[点击进入](https://gooflow.gitee.io/vue/#)<br>
 * React版例展示：[点击进入](https://gooflow.gitee.io/react/)<br>
 
