@@ -15,7 +15,7 @@ Contact:<br>
 WeChat: 18648945414<br>
 QQ: 115247126<br>
 E-mail: fool-egg@163.com <br>
-Authorized price: Js native edition is <b>￥5,000RMB/product</b> ，Vue/React edition is <b>￥5,700RMB/product</b> 。<br>
+Authorized price: Js native edition is <b>￥5,600RMB/product</b> ，Vue/React edition is <b>￥6,300RMB/product</b> 。<br>
 
 More details are subject to the official website:：[https://gooflow.xyz](https://gooflow.xyz)
 
