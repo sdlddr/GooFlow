@@ -23,7 +23,7 @@ GooFlow已转为闭源项目，当前托管页中所放版本仅为试用版，�
 微信：18648945414<br>
 QQ： 115247126<br>
 邮箱： fool-egg@163.com <br>
-授权价格：Js原生版为 <b>￥5,000RMB/产品</b> ，Vue/React版为 <b>￥5,700RMB/产品</b> 。<br>
+授权价格：Js原生版为 <b>￥5,600RMB/产品</b> ，Vue/React版为 <b>￥6,300RMB/产品</b> 。<br>
 
 更多详细信息以官网为准：[https://gooflow.github.io](https://gooflow.github.io)
 
